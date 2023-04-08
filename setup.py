@@ -21,7 +21,7 @@ setup(
     classifiers=[
         'Environment :: Web Environment',
         'Framework :: Django',
-        'Framework :: Django :: 3.2.15',
+        'Framework :: Django :: 3.2',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
@@ -34,7 +34,7 @@ setup(
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
     install_requires=[
-        'Django>=3.2.15',
+        'Django>=3.2',
         'django-recaptcha>=3.0.0',
     ],
 )
